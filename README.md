@@ -11,3 +11,7 @@ Rails installation 5.2.0 on Ubuntu
 Following this link =>
 
 https://railsapps.github.io/installrubyonrails-ubuntu.html
+
+Authentication install 
+
+https://github.com/heartcombo/devise
